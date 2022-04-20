@@ -1,4 +1,4 @@
-This project tests the accuracy of a naive logistic regression model and a DNN for diagnosing whether a patient has a heart disease.
+This project tests the accuracy of a naive logistic regression model and a DNN for diagnosing whether a patient has a heart disease or not.
 
 The models are trained on data from 1025 patients.
 
