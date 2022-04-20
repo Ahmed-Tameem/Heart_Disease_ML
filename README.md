@@ -1,6 +1,6 @@
 This project tests the accuracy of a naive logistic regression model and a DNN for diagnosing whether a patient has a heart disease.
 
-The models are trained on data from 1025 patients/
+The models are trained on data from 1025 patients.
 
 The logistic regression model achieved a training accuracy of 86.7% and a validation accuracy of 86.3%.
 
